@@ -1,0 +1,1 @@
+/*Arquivo da Tela de Garantia quando vende ao cliente SaleRegister.jsx*/

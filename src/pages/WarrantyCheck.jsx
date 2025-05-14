@@ -1,0 +1,1 @@
+/* Arquivo da tela de Consulta de garantia WarrantyCheck.jsx */

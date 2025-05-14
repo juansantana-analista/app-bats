@@ -1,0 +1,1 @@
+/*Arquivo da tela de Cadastro na fábrica FactoryRegister.jsx*/

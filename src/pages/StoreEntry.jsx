@@ -1,0 +1,1 @@
+/* Arquivo da tela de Entrada na loja StoreEntry.jsx */
